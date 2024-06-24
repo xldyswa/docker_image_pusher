@@ -1,8 +1,7 @@
 nginx
 #支持私库
-networkboot/dhcpd
 ubuntu:18.04
-
+networkboot/dhcpd
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
