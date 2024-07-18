@@ -1,2 +1,2 @@
-ubuntu：24.04
+ubuntu
 
